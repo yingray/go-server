@@ -1,4 +1,4 @@
-module go-rest-server
+module go-server
 
 require (
 	github.com/gin-contrib/sse v0.0.0-20190226023149-996076df5b33 // indirect
